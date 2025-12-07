@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import { Layout } from "@/components/Layout";
-import { SectionHeader } from "@/components/SectionHeader";
+import { Layout } from "../components/Layout";
+import { SectionHeader } from "../components/SectionHeader";
 import { Phone, Mail, MapPin, Send } from "lucide-react";
 
 const Contact = () => {

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import { Layout } from "@/components/Layout";
-import { BlogSection } from "@/components/home/BlogSection";
+import { Layout } from "../components/Layout";
+import { BlogSection } from "../components/home/BlogSection";
 
 const Blog = () => {
   return (

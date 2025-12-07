@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import { Layout } from "@/components/Layout";
-import { ServicesSection } from "@/components/home/ServicesSection";
-import { FeaturesSection } from "@/components/home/FeaturesSection";
-import { PricingSection } from "@/components/home/PricingSection";
-import { FaqSection } from "@/components/home/FaqSection";
+import { Layout } from "../components/Layout";
+import { ServicesSection } from "../components/home/ServicesSection";
+import { FeaturesSection } from "../components/home/FeaturesSection";
+import { PricingSection } from "../components/home/PricingSection";
+import { FaqSection } from "../components/home/FaqSection";
 
 const Services = () => {
   return (
