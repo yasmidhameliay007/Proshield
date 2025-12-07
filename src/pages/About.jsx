@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
-import { Layout } from "@/components/Layout";
-import { AboutSection } from "@/components/home/AboutSection";
-import { WhyChooseUsSection } from "@/components/home/WhyChooseUsSection";
-import { TeamSection } from "@/components/home/TeamSection";
-import { TestimonialsSection } from "@/components/home/TestimonialsSection";
+import { Layout } from "../components/Layout";
+import { AboutSection } from "../components/home/AboutSection";
+import { WhyChooseUsSection } from "../components/home/WhyChooseUsSection";
+import { TeamSection } from "../components/home/TeamSection";
+import { TestimonialsSection } from "../components/home/TestimonialsSection";
 
 const About = () => {
   return (
